@@ -1,0 +1,4 @@
+geo
+===
+
+testes geolocation phonegap
